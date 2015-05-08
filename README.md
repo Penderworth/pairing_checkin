@@ -4,7 +4,7 @@
 
 The sample repo to be used for our pairing checkin
 
-gweinert was here, too. Does penderworth see it? This is a Penderworth edit.
+gweinert is gone. Does penderworth see it? penderworth was here.
 
 PNDPO was here
 
